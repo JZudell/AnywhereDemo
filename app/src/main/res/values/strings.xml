@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anywhere Demo App</string>
+    <string name="filter_bar_hint">Type to filter list</string>
+    <string name="details_image_content_description">Character Image</string>
+    <string name="filter_clear_button">Clear filter text</string>
+    <string name="details_view_hint">Click on a character from the list</string>
+</resources>
